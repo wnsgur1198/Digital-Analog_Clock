@@ -1,0 +1,14 @@
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\bin\Debug\Digital-Analog_Clock.exe.config
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\bin\Debug\Digital-Analog_Clock.exe
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\bin\Debug\Digital-Analog_Clock.pdb
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock.csprojAssemblyReference.cache
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\MainWindow.g.cs
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\App.g.cs
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock_MarkupCompile.cache
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock_MarkupCompile.lref
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\MainWindow.baml
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock.g.resources
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital_Analog_Clock.Properties.Resources.resources
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock.csproj.GenerateResource.cache
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock.exe
+C:\Users\wnsgu\Documents\_내문서\깃허브\2학년1학기\Digital-Analog_Clock\Digital-Analog_Clock\obj\Debug\Digital-Analog_Clock.pdb
