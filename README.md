@@ -22,7 +22,7 @@ Framework: .Net 4.7
 ## Release History
 
 * 1.0.0
-    * first
+    * first commit
     * 개발 완료
 
 ## Meta
